@@ -1,0 +1,308 @@
+[
+    {
+        "_id": "6ac09285a395aed272b1cb45",
+        "scholarshipId": "SCH001",
+        "name": "Maharashtra Engineering Scholarship",
+        "provider": "Example Foundation",
+        "description": "Scholarship for eligible engineering students.",
+        "amount": 50000,
+        "educationLevels": [
+            "UG"
+        ],
+        "eligibleCourses": [
+            "Engineering",
+            "Electronics Engineering",
+            "Computer Engineering"
+        ],
+        "eligibleStates": [
+            "Maharashtra"
+        ],
+        "eligibleCategories": [
+            "OPEN",
+            "OBC",
+            "SC",
+            "ST"
+        ],
+        "genderEligibility": [
+            "All"
+        ],
+        "incomeLimit": 300000,
+        "minimumPercentage": 60,
+        "minimumCGPA": 6,
+        "ageLimit": null,
+        "deadline": null,
+        "documentsRequired": [
+            "Income Certificate",
+            "College ID",
+            "Marksheet"
+        ],
+        "applicationUrl": "https://example.com/apply",
+        "sourceUrl": "https://example.com",
+        "sourceType": "website",
+        "isActive": true,
+        "createdAt": "2026-10-03 05:28:37.472000",
+        "updatedAt": "2026-10-03 05:28:37.472000",
+        "__v": 0
+    },
+    {
+        "_id": "6ad19c28297c01b3ccf0b517",
+        "scholarshipId": "SCH002",
+        "name": "National Merit Scholarship",
+        "provider": "Test Foundation",
+        "description": "",
+        "amount": 80000,
+        "educationLevels": [
+            "UG"
+        ],
+        "eligibleCourses": [],
+        "eligibleStates": [],
+        "eligibleCategories": [
+            "OPEN",
+            "OBC",
+            "SC",
+            "ST",
+            "EWS"
+        ],
+        "genderEligibility": [
+            "All"
+        ],
+        "incomeLimit": null,
+        "minimumPercentage": null,
+        "minimumCGPA": null,
+        "ageLimit": null,
+        "deadline": null,
+        "documentsRequired": [],
+        "applicationUrl": "",
+        "sourceUrl": "",
+        "sourceType": "manual",
+        "isActive": true,
+        "createdAt": "2026-10-16 03:38:16.033000",
+        "updatedAt": "2026-10-16 03:59:30.100000",
+        "__v": 0
+    },
+    {
+        "_id": "6ad1c3de856256ddf5abc114",
+        "scholarshipId": "SCH003",
+        "name": "AICTE Pragati Scholarship Scheme",
+        "provider": "All India Council for Technical Education",
+        "description": "Financial assistance for eligible female students pursuing technical degree courses such as engineering. Intended to support girls in technical education.",
+        "amount": 50000,
+        "educationLevels": [
+            "UG"
+        ],
+        "eligibleCourses": [
+            "Engineering",
+            "Electronics Engineering",
+            "Computer Engineering"
+        ],
+        "eligibleStates": [],
+        "eligibleCategories": [
+            "OPEN",
+            "OBC",
+            "SC",
+            "ST",
+            "EWS"
+        ],
+        "genderEligibility": [
+            "Female"
+        ],
+        "incomeLimit": 800000,
+        "minimumPercentage": null,
+        "minimumCGPA": null,
+        "ageLimit": null,
+        "deadline": null,
+        "documentsRequired": [
+            "Income Certificate",
+            "Admission Proof",
+            "Marksheet",
+            "Aadhaar Card",
+            "Bank Details"
+        ],
+        "applicationUrl": "https://scholarships.gov.in/",
+        "sourceUrl": "https://www.aicte-india.org/",
+        "sourceType": "website",
+        "isActive": true
+    },
+    {
+        "_id": "6ad1c3de856256ddf5abc115",
+        "scholarshipId": "SCH004",
+        "name": "AICTE Saksham Scholarship Scheme",
+        "provider": "All India Council for Technical Education",
+        "description": "Financial assistance for eligible students with disabilities pursuing approved technical degree courses. Eligibility depends on disability criteria, admission requirements and family income.",
+        "amount": 50000,
+        "educationLevels": [
+            "UG"
+        ],
+        "eligibleCourses": [
+            "Engineering",
+            "Electronics Engineering",
+            "Computer Engineering"
+        ],
+        "eligibleStates": [],
+        "eligibleCategories": [
+            "OPEN",
+            "OBC",
+            "SC",
+            "ST",
+            "EWS"
+        ],
+        "genderEligibility": [
+            "All"
+        ],
+        "incomeLimit": 800000,
+        "minimumPercentage": null,
+        "minimumCGPA": null,
+        "ageLimit": null,
+        "deadline": null,
+        "documentsRequired": [
+            "Disability Certificate",
+            "Income Certificate",
+            "Admission Proof",
+            "Marksheet",
+            "Bank Details"
+        ],
+        "applicationUrl": "https://scholarships.gov.in/",
+        "sourceUrl": "https://www.aicte-india.org/",
+        "sourceType": "website",
+        "isActive": true
+    },
+    {
+        "_id": "6ad1c3de856256ddf5abc116",
+        "scholarshipId": "SCH005",
+        "name": "Maharashtra Post Matric Scholarship for OBC Students",
+        "provider": "Government of Maharashtra",
+        "description": "Post-matric financial assistance for eligible OBC students residing in Maharashtra and studying approved courses. Benefits and eligibility depend on the applicable government scheme rules.",
+        "amount": 100000,
+        "educationLevels": [
+            "UG",
+            "PG"
+        ],
+        "eligibleCourses": [
+            "Engineering",
+            "Electronics Engineering",
+            "Computer Engineering",
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "eligibleStates": [
+            "Maharashtra"
+        ],
+        "eligibleCategories": [
+            "OBC"
+        ],
+        "genderEligibility": [
+            "All"
+        ],
+        "incomeLimit": null,
+        "minimumPercentage": null,
+        "minimumCGPA": null,
+        "ageLimit": null,
+        "deadline": null,
+        "documentsRequired": [
+            "Caste Certificate",
+            "Income Certificate",
+            "Domicile Certificate",
+            "Marksheet",
+            "Admission Proof"
+        ],
+        "applicationUrl": "https://mahadbt.maharashtra.gov.in/",
+        "sourceUrl": "https://mahadbt.maharashtra.gov.in/",
+        "sourceType": "manual",
+        "isActive": true,
+        "updatedAt": "2026-10-16 09:42:43.414000"
+    },
+    {
+        "_id": "6ad1c3de856256ddf5abc117",
+        "scholarshipId": "SCH006",
+        "name": "PM-USP Central Sector Scheme of Scholarship",
+        "provider": "Department of Higher Education, Government of India",
+        "description": "Merit-based scholarship for eligible college and university students who satisfy the scheme's qualifying examination, family income and other prescribed requirements.",
+        "amount": 49999,
+        "educationLevels": [
+            "UG",
+            "PG"
+        ],
+        "eligibleCourses": [
+            "Engineering",
+            "Electronics Engineering",
+            "Computer Engineering",
+            "Arts",
+            "Commerce",
+            "Science"
+        ],
+        "eligibleStates": [],
+        "eligibleCategories": [
+            "OPEN",
+            "OBC",
+            "SC",
+            "ST",
+            "EWS"
+        ],
+        "genderEligibility": [
+            "All"
+        ],
+        "incomeLimit": null,
+        "minimumPercentage": null,
+        "minimumCGPA": null,
+        "ageLimit": null,
+        "deadline": null,
+        "documentsRequired": [
+            "Marksheet",
+            "Income Certificate",
+            "Admission Proof",
+            "Bank Details"
+        ],
+        "applicationUrl": "https://scholarships.gov.in/",
+        "sourceUrl": "https://scholarships.gov.in/",
+        "sourceType": "manual",
+        "isActive": true,
+        "updatedAt": "2026-10-16 09:43:04.115000"
+    },
+    {
+        "_id": "6ad1ebef06b7d293b52380fd",
+        "scholarshipId": "SCH07",
+        "name": "Yuva Scholarship Yojna",
+        "provider": "Yuva Foundation",
+        "description": "This scholarship provides 30,000 to each user",
+        "amount": 30000,
+        "educationLevels": [
+            "UG"
+        ],
+        "eligibleCourses": [
+            "CS",
+            "IT",
+            "ELN",
+            "Civil"
+        ],
+        "eligibleStates": [
+            "Maharashtra"
+        ],
+        "eligibleCategories": [
+            "OPEN",
+            "OBC",
+            "SC",
+            "ST",
+            "EWS"
+        ],
+        "genderEligibility": [
+            "All"
+        ],
+        "incomeLimit": 100000,
+        "minimumPercentage": 63,
+        "minimumCGPA": 8.5,
+        "ageLimit": 25,
+        "deadline": "2005-07-25 00:00:00",
+        "documentsRequired": [
+            "Aadhar Card",
+            "Pan Card"
+        ],
+        "applicationUrl": "https://YuvaFoundation.com",
+        "sourceUrl": "https://ScholarAi.com",
+        "sourceType": "manual",
+        "isActive": true,
+        "createdAt": "2026-10-16 09:18:39.306000",
+        "updatedAt": "2026-10-16 09:18:39.306000",
+        "__v": 0
+    }
+]
